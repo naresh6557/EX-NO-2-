@@ -79,7 +79,8 @@ int main()
     return 0;
 }
 ```
-
+## RESULT:
+Thus, the program is executed successfully.
 
 
 

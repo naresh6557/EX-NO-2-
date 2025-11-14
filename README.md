@@ -79,8 +79,7 @@ int main()
     return 0;
 }
 ```
-## RESULT:
-Thus, the program is executed successfully.
+
 
 
 
@@ -88,4 +87,8 @@ Thus, the program is executed successfully.
 
 Output:
 <img width="1696" height="897" alt="image" src="https://github.com/user-attachments/assets/95c6676a-c76a-4591-ac0d-722710559afe" />
+
+## RESULT:
+Thus, the program is executed successfully.
+
 
